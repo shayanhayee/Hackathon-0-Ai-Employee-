@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "134ac829797cb55f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2282f7338c4d2e86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73ffe8f7130b3bdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "specs/001-bronze-ai-employee/plan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "plan"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae2424e09d99f28e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f655e4ee2e99eede",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "464e6c2996ee4a46",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4eb8f2009e08c1e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d73a561bcb3f6e53",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0c0938a5df519b4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd8cdd2784e2cf99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4799135a39006e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dashboard.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Dashboard"
+            }
+          },
+          {
+            "id": "81e9fd24eb403944",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dashboard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Dashboard"
+            }
+          },
+          {
+            "id": "f2a49deb881a564e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6cbb11239b541564",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "50116112a732e0b1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dashboard.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Dashboard"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "73ffe8f7130b3bdf",
+  "lastOpenFiles": [
+    "uv.lock",
+    "README.md",
+    "pyproject.toml",
+    "main.py",
+    "Dashboard.md",
+    "Plans/PLAN_test2.md",
+    "Inbox/test2.md",
+    "Inbox/README.md",
+    "Done/test2.md",
+    "Needs_Action/test2.md",
+    "Done/test.md",
+    "Plans/PLAN_test.md",
+    "nul",
+    "Needs_Action/test.md",
+    "Inbox/test.md",
+    "Company_Handbook.md",
+    "Inbox/New Text Document.txt",
+    "Inbox/READMEmd",
+    "Inbox/New folder",
+    "Inbox/_OceanofPDF.com_It_Ends_with_Us_-_Colleen_Hoover.pdf",
+    "watcher/__pycache__/file_handler.cpython-313.pyc",
+    "watcher/__pycache__/config.cpython-313.pyc",
+    "watcher/__pycache__",
+    "history/prompts/001-bronze-ai-employee/004-bronze-tier-implementation-complete.green.prompt.md",
+    "watcher/README.md",
+    "history/prompts/001-bronze-ai-employee/003-bronze-tier-implementation-tasks.tasks.prompt.md",
+    "specs/001-bronze-ai-employee/tasks.md",
+    "history/prompts/001-bronze-ai-employee/002-bronze-tier-technical-plan.plan.prompt.md",
+    "specs/001-bronze-ai-employee/quickstart.md",
+    "specs/001-bronze-ai-employee/contracts/dashboard.schema.md",
+    "specs/001-bronze-ai-employee/contracts/plan-file.schema.md",
+    "specs/001-bronze-ai-employee/contracts/task-file.schema.md",
+    "specs/001-bronze-ai-employee/data-model.md",
+    "specs/001-bronze-ai-employee/research.md",
+    "specs/001-bronze-ai-employee/plan.md",
+    "history/prompts/001-bronze-ai-employee/001-bronze-tier-ai-employee-specification.spec.prompt.md"
+  ]
+}
